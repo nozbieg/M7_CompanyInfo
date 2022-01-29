@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">M7_CompanyInfo</string>
+    <string name="wynik_wyszuikiwania">Wynik wyszukiwania:</string>
+    <string name="placeholder">placeholder</string>
+    <string name="regon">Regon</string>
+    <string name="nip">Nip</string>
+    <string name="nazwa">Nazwa</string>
+    <string name="wojew_dztwo">Województwo</string>
+    <string name="miasto">Miasto</string>
+    <string name="search_in_gus">Szukaj w GUS</string>
+    <string name="search_in_database">Szukaj w bazie lokalnej</string>
+    <string name="welcome_text">Wprowadź nip firmy, której dane chcesz wyswietlić</string>
+    <string name="save_to_db">Zapisz lokalnie</string>
+    <string name="return_toMain">Wróć</string>
+</resources>
